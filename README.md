@@ -11,5 +11,9 @@ A collection of notebooks containing Machine Learning models aimed at solving di
 **Timeseries Forecasting**
 
 - sales prediction and data enrichment
+  
+**NLP**
+
+- Apple's TrustPilot reviews sentiment analysis 
 
 </div>
