@@ -8,12 +8,19 @@ A collection of notebooks containing Machine Learning models aimed at solving di
 
 ## Notebooks
 
-**Timeseries Forecasting**
+**./timeseries-forecasting**
 
-- sales prediction and data enrichment
-  
-**NLP**
+- /sales-forecasting
+  - Sales prediction and Data Enrichment using Catboost and Upgini
 
-- Apple's TrustPilot reviews sentiment analysis 
+**./NLP**
+
+- apple-sentiment-analysis
+  - Apple's reviews sentiment analysis using Beautiful Soup, NLTK, and TextBlob
+
+**./deep-learning**
+
+- ArtGAN
+  - A Generative Adversarial Network for the generation of new art portraits
 
 </div>
