@@ -18,6 +18,6 @@ A collection of notebooks containing Machine Learning models aimed at solving di
 
 **> deep-learning**
 
-- _ArtGAN_: A Generative Adversarial Network for the generation of new art portraits
+- _ArtGAN_: A Generative Adversarial Network for the generation of new synthetic art
 
 </div>
