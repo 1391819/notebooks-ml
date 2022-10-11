@@ -10,14 +10,14 @@ A collection of notebooks containing Machine Learning models aimed at solving di
 
 **> timeseries-forecasting**
 
-- _sales-forecasting_: Sales prediction and Data Enrichment using Catboost and Upgini
+- [_sales-forecasting_](https://www.kaggle.com/code/robertonacu/sales-forecasting): Sales prediction and Data Enrichment using Catboost and Upgini
 
 **> NLP**
 
-- _apple-sentiment-analysis_: Apple's reviews sentiment analysis using Beautiful Soup, NLTK, and TextBlob
+- [_apple-sentiment-analysis_](https://www.kaggle.com/code/robertonacu/apple-sentiment-analysis): Apple's reviews sentiment analysis using Beautiful Soup, NLTK, and TextBlob
 
 **> deep-learning**
 
-- _ArtGAN_: A Generative Adversarial Network for the generation of new synthetic art
+- [_ArtGAN_](https://www.kaggle.com/code/robertonacu/artgan): A Generative Adversarial Network for the generation of new synthetic art
 
 </div>
